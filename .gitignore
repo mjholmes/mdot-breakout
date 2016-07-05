@@ -1,0 +1,16 @@
+##### gitignore for eagle projects
+
+*.s#*
+*.b#*
+*.epf
+*.zip
+*.gbo
+*.dri
+*.gto
+*.gm1
+*.gbl
+*.gts
+*.gpi
+*.gtl
+*.gbs
+*.txt
